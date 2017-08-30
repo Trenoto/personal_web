@@ -1,1 +1,1 @@
-[faberald.com](faberald.com)
+[faberald.com](http://www.faberald.com)
