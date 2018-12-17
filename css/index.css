@@ -1,13 +1,16 @@
 body {
      width: 100%;
      height: 100%;
-     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
      color: #fff;
      background-color: #000;
 }
  html {
      width: 100%;
      height: 100%;
+}
+
+.navbar .title-rt {
+    font-family: 'Pacifico', cursive; 
 }
  .faberald-header {
      display: table;
@@ -102,4 +105,12 @@ body {
 }
  .social-icons a{
      color: #fff;
+}
+
+.intro-text {
+    font-family: 'Exo 2', sans-serif;
+}
+
+.view-resume {
+    color: rgb(249, 165, 39)
 }
